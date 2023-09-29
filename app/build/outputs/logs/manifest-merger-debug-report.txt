@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:30:7-32:52
+	android:value
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:32:11-49
+	android:name
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:31:11-56
+manifest
+ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/rijulmehta/.gradle/caches/transforms-3/b55730d202dbd506bed3540b04507718/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/5cfb9d95fbaf4b40677c157bf41e3b94/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:maps-utils-ktx:3.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/aaf838e24f6670b10cd533ba6725982a/transformed/jetified-maps-utils-ktx-3.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.maps.android:maps-ktx:3.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/7a4dda3a791195061e6267be5d436d42/transformed/jetified-maps-ktx-3.0.0/AndroidManifest.xml:18:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/fd008ba42341a1a668dc1ccc6cf1092c/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/a936c1afc807d0e805b7349a59f9ad64/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/rijulmehta/.gradle/caches/transforms-3/dbe3b4730373ea0837891fbb225c4acd/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/rijulmehta/.gradle/caches/transforms-3/50f598cd845877081d0e7973daf27b9d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/rijulmehta/.gradle/caches/transforms-3/31780bd16a5fa985c3d095298cc8ad6b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/e2077872a05984ea90a3a38273557a4e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/33cd39089c563f064dfaf61ca7b20b6b/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/263e6679d104d39ab474594ebece5c93/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/e63c72021febd354fcc2d8646ca69efa/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/2824c973fc33e33323914a8cb1e616a3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/9081f3e4efb0810a2b1fc8e639a5c69c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/bfdca9f994330ddf14e34c7684346595/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/c818dce9f7bb007c24e14ae775ef9339/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4d4b92e9e4127b1a237da41f2a804510/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/757c6a3a3ede34d94423b4184a35cb0c/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/e3847fa213e83496987af377ff9c35f8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/289f26da582bf8e8e77badfeab8f2253/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rijulmehta/.gradle/caches/transforms-3/004283d4d73253a21dc07c9df6935cc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/3f201cfbda2f6d203e31cc704208e62b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/ecda7045839cee9c87453a68c176d3ac/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/b13cb88ceda765f2a5de8e6c0f394fe9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/06ed6c0365775ee2371b3053582fb90f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/08100ea330d66644d16f9d10c5093e69/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/49afdaae6cc8795b7491ed14754262b8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/8df90141af1e4009f0cfc443990438bf/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+	package
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:19:3-50
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:1-44:12
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:21:3-42:17
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/a936c1afc807d0e805b7349a59f9ad64/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/a936c1afc807d0e805b7349a59f9ad64/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/c818dce9f7bb007c24e14ae775ef9339/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/c818dce9f7bb007c24e14ae775ef9339/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rijulmehta/.gradle/caches/transforms-3/004283d4d73253a21dc07c9df6935cc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rijulmehta/.gradle/caches/transforms-3/004283d4d73253a21dc07c9df6935cc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/c818dce9f7bb007c24e14ae775ef9339/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:26:5-31
+	android:label
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:24:5-37
+	android:roundIcon
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:25:5-50
+	android:icon
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:23:5-39
+	android:allowBackup
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:22:5-31
+	android:theme
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:27:5-36
+activity#com.google.codelabs.buildyourfirstmap.MainActivity
+ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:34:3-41:16
+	android:exported
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:35:7-30
+	android:name
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:36:7-40:23
+action#android.intent.action.MAIN
+ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:37:9-61
+	android:name
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:37:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:39:9-69
+	android:name
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:39:19-66
+uses-sdk
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/rijulmehta/.gradle/caches/transforms-3/b55730d202dbd506bed3540b04507718/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/rijulmehta/.gradle/caches/transforms-3/b55730d202dbd506bed3540b04507718/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/5cfb9d95fbaf4b40677c157bf41e3b94/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/5cfb9d95fbaf4b40677c157bf41e3b94/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:maps-utils-ktx:3.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/aaf838e24f6670b10cd533ba6725982a/transformed/jetified-maps-utils-ktx-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:maps-utils-ktx:3.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/aaf838e24f6670b10cd533ba6725982a/transformed/jetified-maps-utils-ktx-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:maps-ktx:3.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/7a4dda3a791195061e6267be5d436d42/transformed/jetified-maps-ktx-3.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.maps.android:maps-ktx:3.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/7a4dda3a791195061e6267be5d436d42/transformed/jetified-maps-ktx-3.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/fd008ba42341a1a668dc1ccc6cf1092c/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/fd008ba42341a1a668dc1ccc6cf1092c/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/a936c1afc807d0e805b7349a59f9ad64/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/a936c1afc807d0e805b7349a59f9ad64/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/rijulmehta/.gradle/caches/transforms-3/dbe3b4730373ea0837891fbb225c4acd/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/rijulmehta/.gradle/caches/transforms-3/dbe3b4730373ea0837891fbb225c4acd/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/rijulmehta/.gradle/caches/transforms-3/50f598cd845877081d0e7973daf27b9d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/rijulmehta/.gradle/caches/transforms-3/50f598cd845877081d0e7973daf27b9d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/rijulmehta/.gradle/caches/transforms-3/31780bd16a5fa985c3d095298cc8ad6b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/rijulmehta/.gradle/caches/transforms-3/31780bd16a5fa985c3d095298cc8ad6b/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/e2077872a05984ea90a3a38273557a4e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/e2077872a05984ea90a3a38273557a4e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/33cd39089c563f064dfaf61ca7b20b6b/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/33cd39089c563f064dfaf61ca7b20b6b/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/263e6679d104d39ab474594ebece5c93/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/263e6679d104d39ab474594ebece5c93/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/e63c72021febd354fcc2d8646ca69efa/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/e63c72021febd354fcc2d8646ca69efa/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/2824c973fc33e33323914a8cb1e616a3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/2824c973fc33e33323914a8cb1e616a3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/9081f3e4efb0810a2b1fc8e639a5c69c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/9081f3e4efb0810a2b1fc8e639a5c69c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/bfdca9f994330ddf14e34c7684346595/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/bfdca9f994330ddf14e34c7684346595/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/c818dce9f7bb007c24e14ae775ef9339/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/rijulmehta/.gradle/caches/transforms-3/c818dce9f7bb007c24e14ae775ef9339/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4d4b92e9e4127b1a237da41f2a804510/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4d4b92e9e4127b1a237da41f2a804510/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/757c6a3a3ede34d94423b4184a35cb0c/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/757c6a3a3ede34d94423b4184a35cb0c/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/e3847fa213e83496987af377ff9c35f8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/e3847fa213e83496987af377ff9c35f8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/289f26da582bf8e8e77badfeab8f2253/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/289f26da582bf8e8e77badfeab8f2253/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rijulmehta/.gradle/caches/transforms-3/004283d4d73253a21dc07c9df6935cc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rijulmehta/.gradle/caches/transforms-3/004283d4d73253a21dc07c9df6935cc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/3f201cfbda2f6d203e31cc704208e62b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/3f201cfbda2f6d203e31cc704208e62b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/ecda7045839cee9c87453a68c176d3ac/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/ecda7045839cee9c87453a68c176d3ac/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/b13cb88ceda765f2a5de8e6c0f394fe9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/rijulmehta/.gradle/caches/transforms-3/b13cb88ceda765f2a5de8e6c0f394fe9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/06ed6c0365775ee2371b3053582fb90f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/06ed6c0365775ee2371b3053582fb90f/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/08100ea330d66644d16f9d10c5093e69/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/08100ea330d66644d16f9d10c5093e69/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/49afdaae6cc8795b7491ed14754262b8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/49afdaae6cc8795b7491ed14754262b8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/8df90141af1e4009f0cfc443990438bf/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/rijulmehta/.gradle/caches/transforms-3/8df90141af1e4009f0cfc443990438bf/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:12:9-14:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/185faced43ff6ba4ae369133974e2595/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:14:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:2.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/35a736642855707d0babf92f95cc7539/transformed/jetified-android-maps-utils-2.0.1/AndroidManifest.xml:13:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/rijulmehta/.gradle/caches/transforms-3/7621b3ba2fdd7e6eaf937019b110d447/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/rijulmehta/.gradle/caches/transforms-3/85d998709af2d81ae0db740c06778046/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/4981efa52e543eece0264fae689ff887/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/rijulmehta/.gradle/caches/transforms-3/b758369ee9c4ce4c2a5cfa7c5378d174/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/rijulmehta/.gradle/caches/transforms-3/303c4dcd7ad07b8c6ceb0319649fde0a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
