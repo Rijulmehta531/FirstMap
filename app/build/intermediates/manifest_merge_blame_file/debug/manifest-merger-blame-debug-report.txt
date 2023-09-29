@@ -67,11 +67,7 @@
 48        android:theme="@style/AppTheme" >
 48-->/Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:27:5-36
 49
-50        <!-- Add meta-data tag here -->
-51        <meta-data
-52            android:name="com.google.android.geo.API_KEY"
-52-->/Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:31:11-56
-53            android:value="AIzaSyA38MdXj32PCc2GxXU4XBGB-hMF6JX2qfI" />
+50       
 53-->/Users/rijulmehta/csc4360/maps-platform-101-android-main/starter/app/src/main/AndroidManifest.xml:32:11-49
 54
 55        <activity
